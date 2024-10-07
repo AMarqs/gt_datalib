@@ -46,8 +46,6 @@ Las estructuras de datos son una parte fundamental de cualquier lenguaje de prog
 |                  Pila<br>*(Stack)*                  | LIFO<br>*(Last In, First Out)*  | Cada elemento apunta al siguiente.<br>Puede accederse solo al primer elemento.            |
 |                 Conjunto<br>*(Set)*                 |            No lineal            | Cada elemento apunta al siguiente.<br>No admite elementos repetidos.                      |
 
-> [!TIP]
-> Además, si todo sale bien, ¡luego podrás incluirlas en tu Libft!
 
 # II. Instrucciones generales
 
