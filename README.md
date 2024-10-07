@@ -1,3 +1,5 @@
+Práctica realizada por: [@gonzalonao](https://github.com/gonzalonao) y [@AMarqs](https://github.com/AMarqs)
+
 <div align="center">
     <h1>gt_datalib</h1>
 </div>
